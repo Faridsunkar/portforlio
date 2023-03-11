@@ -53,7 +53,7 @@ nav ul li a:hover{
     color: aqua;
 }
 
-.button{
+#cv{
     padding: 16px 30px;
     font-size: 16px;
     letter-spacing: 2px;
@@ -67,7 +67,7 @@ nav ul li a:hover{
 }
 
 
-.button:hover{
+#cv:hover{
     color: aqua;
     border-color: aqua;
     background: transparent;
