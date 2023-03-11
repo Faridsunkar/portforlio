@@ -90,6 +90,48 @@ nav ul li a:hover{
 }
 
 
-.content h1{
-    color: black;
+.about{
+    height: 50vh;
+    background-color: black;
+    background: url(https://images.unsplash.com/photo-1621367507503-1b5816c754a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMGd1aXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
 }
+
+.aboutcontent {
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+.info{
+    color: white;
+    text-align: center;
+    font-size: larger;
+   
+}
+
+
+
+
+.contact{
+    height: 50vh;
+    background-color: white;
+    background: url();
+
+}
+
+.contacts{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    
+}
+
+.information{
+    text-align: center;
+   
+}
+
+
+
